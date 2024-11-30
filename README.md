@@ -1,6 +1,6 @@
-# Sass Template - v2.0
+# Sass Structure Starter
 
-This is a template for a Sass project. Built with [Vite](https://vitejs.dev/).
+Built with [Vite](https://vitejs.dev/).
 
 ![Landing Page](/public/landing-page.png)
 
