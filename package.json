@@ -12,8 +12,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "sass": "^1.83.1",
-    "vite": "^4.5.5",
-    "vitest": "^2.1.8"
+    "sass": "^1.85.1",
+    "vite": "^4.5.9",
+    "vitest": "^2.1.9"
   }
 }
